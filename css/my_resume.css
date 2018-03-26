@@ -22,8 +22,8 @@ h3 {
   line-height: 1.75rem;
 }  
 
-subheading mb-3 {
+h2{
   font-family: inherit;
   text-transform: none;
-  margin-top: 1rem;
+  margin-top: 3.5rem;
 }
