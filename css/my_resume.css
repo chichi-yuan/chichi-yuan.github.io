@@ -10,10 +10,6 @@ h1 {
   line-height: 6rem;
 }
 
-subheading {
-  font-family: inherit;
-  text-transform: none;
-  margin-top: 1rem;
 }
 
 h3 {
@@ -28,7 +24,7 @@ h2 mb-5{
   margin-top: 3.5rem;
 }
 
-subheading mb-3{
+.subheading {
   font-family: inherit;
   text-transform: none;
   margin-top: 1.35rem;
