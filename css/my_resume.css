@@ -31,3 +31,7 @@ body {
   padding-top: 54px;
   color: #721c24;
 }
+
+tr:nth-child(even){
+       background-colar: blue
+}
