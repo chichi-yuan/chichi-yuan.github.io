@@ -23,6 +23,12 @@ h3 {
   line-height: 1.75rem;
 }  
 
+h5 {
+  font-family: inherit;
+  text-transform: none;
+  line-height: 1.5rem;
+}  
+
 .subheading {
   font-family: inherit;
   text-transform: none;
