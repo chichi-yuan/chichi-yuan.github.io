@@ -145,3 +145,7 @@ a {
 a:hover, a:focus, a:active {
   color: rgba(0,123,255,.5);
 }
+
+tr:nth-child(even){
+       background-colar: blue
+}
