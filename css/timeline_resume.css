@@ -194,3 +194,7 @@ body{
     height: 60px;
 }
 }
+
+tr:nth-child(even){
+       background-colar: blue
+}
