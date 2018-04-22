@@ -21,7 +21,7 @@ h3 {
   font-family: inherit;
   text-transform: none;
   line-height: 1.75rem;
-  font-weight: bolder;
+  font-weight: bold;
 }  
 
 h5 {
@@ -37,7 +37,7 @@ h5 {
 }
 
 .text-primary {
-  color: #2b8fcbc2!important;
+  color: #254b71!important;
 }
 
 body {
