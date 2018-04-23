@@ -1,5 +1,4 @@
 
-
 body {
 	font-family: "Noto Sans TC";
 }
@@ -44,8 +43,4 @@ body {
   font-family: 'Noto Sans TC';
   padding-top: 54px;
   color: #721c24;
-}
-
-tr:nth-child(even){
-       background-colar: blue
 }
