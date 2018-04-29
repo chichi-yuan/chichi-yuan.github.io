@@ -50,3 +50,9 @@ body {
 tr:nth-child(even){
        background-colar: blue
 }
+
+p {
+  padding:15px 15px 20px
+  border: 1px solid
+  border-radius:15px
+  marging:2rem auto 5rem  
