@@ -1,13 +1,12 @@
 div.gallery {
     margin: 5px;
-    border: 1px dashed #ccc;
-	border-radius: 15px
-    float: relative;
-    width: 180px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 220px;
 }
 
 div.gallery:hover {
-    border: 1px dashed #777;
+    border: 1px solid #777;
 }
 
 div.gallery img {
@@ -17,5 +16,5 @@ div.gallery img {
 
 div.desc {
     padding: 15px;
-    text-align: left;
+    text-align: center;
 }
