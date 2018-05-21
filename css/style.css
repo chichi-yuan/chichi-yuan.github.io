@@ -1,12 +1,12 @@
 div.gallery {
     margin: 5px;
-    border: 1px solid #ccc;
+    border: 1px dashed #ccc;
     float: relative;
     width: 180px;
 }
 
 div.gallery:hover {
-    border: 1px solid #777;
+    border: 1px dashed #777;
 }
 
 div.gallery img {
