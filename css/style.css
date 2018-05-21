@@ -1,8 +1,8 @@
 div.gallery {
-    margin: 3px;
+    margin: 5px;
     border: 1px dashed #ccc;
     float: left;
-    width: 250px;
+    width: 220px;
 }
 
 div.gallery:hover {
