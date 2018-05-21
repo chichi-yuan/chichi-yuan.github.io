@@ -1,6 +1,7 @@
 div.gallery {
     margin: 5px;
     border: 1px dashed #ccc;
+	border-radius: 15px
     float: relative;
     width: 180px;
 }
